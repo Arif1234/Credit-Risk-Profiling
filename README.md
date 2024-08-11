@@ -11,10 +11,9 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- The project is centered around the domain of risk analytics within the consumer finance industry. It aims to address the critical challenge of loan defaults, which significantly impacts a lending company's profitability. By employing data-driven methods, we seek to identify patterns and trends in loan applicant data that can predict the likelihood of default.
+- The primary business problem is to minimize credit loss by accurately identifying loan applicants who are at a higher risk of default. This involves building a predictive model to assess creditworthiness and inform lending decisions, such as loan approval, interest rate determination, and loan amount.
+- Loan Dataset provided by upGrad is used here.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
