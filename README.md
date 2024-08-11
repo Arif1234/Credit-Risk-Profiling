@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Credit Risk Profiling
+> This project aims to develop a comprehensive understanding of factors influencing loan default rates within a consumer finance company. By employing exploratory data analysis (EDA) techniques, we will analyze historical loan data to identify key attributes that correlate with loan repayment behavior. The insights derived from this analysis will enable the company to construct a robust credit risk model, aiding in the assessment of loan applicants and mitigating financial losses due to defaults. Ultimately, this project seeks to optimize lending decisions and enhance overall portfolio performance.
 
 
 ## Table of Contents
