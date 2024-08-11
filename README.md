@@ -41,9 +41,9 @@
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
+- This project was inspired by Live Presentation given by Shivam Garg.
 - References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was based on [Exploratory Data Analysis](https://learn.upgrad.com/course/5803/segment/52472/311891/945610/4718750).
 
 
 ## Contact
