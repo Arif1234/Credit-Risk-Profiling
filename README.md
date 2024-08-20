@@ -27,8 +27,8 @@
 
 
 ## Technologies Used
-- Python - Version 3.9.12
-- numpy - Version 1.21.5
+- [Python - Version 3.11.7](https://www.python.org/)
+- [Numpy - Version 1.26.4](https://numpy.org/)
 - pandas - Version 1.4.2
 - matplotlib - Version 3.5.1
 - seaborn - Version 0.11.2
