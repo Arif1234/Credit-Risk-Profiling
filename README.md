@@ -29,12 +29,12 @@
 ## Technologies Used
 - [Python - Version 3.11.7](https://www.python.org/)
 - [Numpy - Version 1.26.4](https://numpy.org/)
-- pandas - Version 1.4.2
-- matplotlib - Version 3.5.1
-- seaborn - Version 0.11.2
-- Jupyter Notebook - Version 3.3.2
-- JupyterLab - Version 6.4.11
-- Anaconda - Version 2.1.4
+- [Pandas - Version 2.1.4](https://pandas.pydata.org/)
+- [matplotlib - Version 3.8.0](https://matplotlib.org/stable/)
+- [seaborn - Version 0.12.2](https://seaborn.pydata.org/index.html)
+- [Jupyter Notebook - Version 7.0.8](https://jupyter.org/)
+- [JupyterLab - Version 4.0.11](https://jupyter.org/)
+- [Anaconda Navigator - Version 2.5.2](https://www.anaconda.com/products/navigator)
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
