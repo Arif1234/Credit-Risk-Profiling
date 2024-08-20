@@ -46,10 +46,3 @@ Give credit here.
 
 ## Contact
 Created by [@Arif1234](https://github.com/Arif1234) & [@Meenakshi1112](https://github.com/MeenakshiVarshney)- feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
