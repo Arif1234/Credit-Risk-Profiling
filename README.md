@@ -18,10 +18,10 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Loan to lower grades and subgrades are risky.
+- Loan to people with prior bad records are risky.
+- Proper verification should be done before apporving loan.
+- As long as loan is less than 20% of annual income, default rate is low.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
