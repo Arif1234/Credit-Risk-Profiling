@@ -22,6 +22,11 @@
 - Loan to people with prior bad records are risky.
 - Proper verification should be done before apporving loan.
 - As long as loan is less than 20% of annual income, default rate is low.
+- The Loans should be provided to borrowers with more than 2 years & less than 10 years of employment length.
+- Short term loans should be avoided in states California, Florida, New York, New Jersey & Texas.
+- The loan applications are increased during peak periods such as December and Q4.
+- Evaluate loan applicants seeking debt consolidation loans.
+- Evaluate home ownership status of the borrowers, they should be owning their own home so they have a stability in paying the debt.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
