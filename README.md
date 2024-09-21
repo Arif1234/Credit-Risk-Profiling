@@ -11,24 +11,44 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- The project is centered around the domain of risk analytics within the consumer finance industry. It aims to address the critical challenge of loan defaults, which significantly impacts a lending company's profitability. By employing data-driven methods, we seek to identify patterns and trends in loan applicant data that can predict the likelihood of default.
-- The primary business problem is to minimize credit loss by accurately identifying loan applicants who are at a higher risk of default. This involves building a predictive model to assess creditworthiness and inform lending decisions, such as loan approval, interest rate determination, and loan amount.
-- Loan Dataset provided by upGrad is used here.
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- This model provides a reliable tool for predicting bike sharing demand, accounting for various temporal, environmental, and operational factors. It offers valuable insights for operational planning, resource allocation, and marketing strategies in the bike sharing system. The model highlights the importance of weather conditions, seasonal trends, and yearly growth, providing a solid foundation for business decision-making and expansion strategies for BoomBikes.
+- BoomBikes Dataset provided by upGrad is used here.
 
 ## Conclusions
-- Loan to lower grades and subgrades are risky.
-- Loan to people with prior bad records are risky.
-- Proper verification should be done before apporving loan.
-- As long as loan is less than 20% of annual income, default rate is low.
-- The Loans should be provided to borrowers with more than 2 years & less than 10 years of employment length.
-- Short term loans should be avoided in states California, Florida, New York, New Jersey & Texas.
-- The loan applications are increased during peak periods such as December and Q4.
-- Evaluate loan applicants seeking debt consolidation loans.
-- Evaluate home ownership status of the borrowers, they should be owning their own home so they have a stability in paying the debt.
+### Key Factors and Insights
+--------------
+- Most influential factors:
+    * Temperature (coef: 0.4384)
+    * Year trend (coef: 0.2342)
+    * Working day (coef: 0.0543)
+- Negative impacts:
+    * Light Rain/Snow (coef: -0.2964)
+    * Windspeed (coef: -0.1650)
+    * Mist (coef: -0.0835)
+- Seasonal effects:
+    * Winter (coef: 0.1339)
+    * Summer (coef: 0.0766)
+- Monthly patterns:
+    * Higher demand: September (coef: 0.0974), August (coef: 0.0446)
+    * Lower demand: January, December, February, November
+- Day of week effect:
+    * Saturday shows higher demand (coef: 0.0647)
+    * Indication of higher use on Wednesday, Thursday, and holidays
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+### Practical Implications and Recommendations
+-------------------------
+- Weather and seasonal factors crucial for demand prediction
+- BoomBikes popularity is growing year-over-year (2019 > 2018)
+- Operational adjustments:
+    * Increase capacity during favorable weather conditions
+    * Implement strategies for low-demand periods (e.g., rainy days)
+- Marketing strategies:
+    * Aggressive marketing in summer and spring
+    * Strong push in the first 6 months of the year
+    * Develop incentives for less favorable weather conditions
+- Customer retention:
+    * Analyze and implement strategies to retain repeat customers
+    * Capitalize on growing popularity and exposure
 
 
 ## Technologies Used
@@ -41,13 +61,11 @@
 - [JupyterLab - Version 4.0.11](https://jupyter.org/)
 - [Anaconda Navigator - Version 2.5.2](https://www.anaconda.com/products/navigator)
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
 ## Acknowledgements
 Give credit here.
-- This project was inspired by Live Presentation given by Shivam Garg.
-- This project is based on upGrad course material on [Exploratory Data Analysis](https://learn.upgrad.com/course/5803/segment/52472/311891/945610/4718750).
+- This project was inspired by Live Presentation given by Raghuram Bharadwaj and Live Coding Session on LR taken by Dr. DARSHAN INGLE.
+- This project is based on upGrad course material on [Linear Regression](https://learn.upgrad.com/course/5803/segment/54603/325204/984745/4919622).
 
 
 ## Contact
-Created by [@Arif1234](https://github.com/Arif1234) & [@Meenakshi1112](https://github.com/MeenakshiVarshney)- feel free to contact me!
+Created by [@Arif1234](https://github.com/Arif1234) - feel free to contact me!
